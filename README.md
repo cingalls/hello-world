@@ -1,4 +1,4 @@
 # hello-world
 trying out github
 
-pure magic
+I'm pure magic
